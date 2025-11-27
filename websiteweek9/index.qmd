@@ -2,10 +2,10 @@
 title: "websiteweek9"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello and welcome to my failed attempts....
 
 ```{r}
-1 + 1
+my_object<-45
+print(my_object)
+
 ```
