@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+About this site meow meow meow
 
 ```{r}
 1 + 1
