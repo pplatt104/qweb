@@ -1,0 +1,11 @@
+---
+title: "websiteweek9"
+---
+
+Hello and welcome to my failed attempts....
+
+```{r}
+my_object<-45
+print(my_object)
+
+```
