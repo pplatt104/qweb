@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "websiteweek9",
+    "section": "",
+    "text": "Hello and welcome to my failed attempts….\n\nmy_object&lt;-45\nprint(my_object)\n\n[1] 45"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site meow meow meow\n\n1 + 1\n\n[1] 2"
+  }
+]
